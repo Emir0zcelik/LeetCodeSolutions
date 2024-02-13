@@ -1,0 +1,5 @@
+C:\Users\JoyJacksoon\Desktop\LeetCodeSolutions\Array\Easy\BuildArrayFromPermutation\BuildArrayFromPermutation\obj\Debug\net7.0\BuildArrayFromPermutation.csproj.AssemblyReference.cache
+C:\Users\JoyJacksoon\Desktop\LeetCodeSolutions\Array\Easy\BuildArrayFromPermutation\BuildArrayFromPermutation\obj\Debug\net7.0\BuildArrayFromPermutation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoyJacksoon\Desktop\LeetCodeSolutions\Array\Easy\BuildArrayFromPermutation\BuildArrayFromPermutation\obj\Debug\net7.0\BuildArrayFromPermutation.AssemblyInfoInputs.cache
+C:\Users\JoyJacksoon\Desktop\LeetCodeSolutions\Array\Easy\BuildArrayFromPermutation\BuildArrayFromPermutation\obj\Debug\net7.0\BuildArrayFromPermutation.AssemblyInfo.cs
+C:\Users\JoyJacksoon\Desktop\LeetCodeSolutions\Array\Easy\BuildArrayFromPermutation\BuildArrayFromPermutation\obj\Debug\net7.0\BuildArrayFromPermutation.csproj.CoreCompileInputs.cache
