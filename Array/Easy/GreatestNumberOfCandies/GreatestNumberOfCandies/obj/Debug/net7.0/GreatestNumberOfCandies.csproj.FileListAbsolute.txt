@@ -1,0 +1,15 @@
+C:\Users\JoyJacksoon\Desktop\LeetCodeSolutions\Array\Easy\GreatestNumberOfCandies\GreatestNumberOfCandies\bin\Debug\net7.0\GreatestNumberOfCandies.exe
+C:\Users\JoyJacksoon\Desktop\LeetCodeSolutions\Array\Easy\GreatestNumberOfCandies\GreatestNumberOfCandies\bin\Debug\net7.0\GreatestNumberOfCandies.deps.json
+C:\Users\JoyJacksoon\Desktop\LeetCodeSolutions\Array\Easy\GreatestNumberOfCandies\GreatestNumberOfCandies\bin\Debug\net7.0\GreatestNumberOfCandies.runtimeconfig.json
+C:\Users\JoyJacksoon\Desktop\LeetCodeSolutions\Array\Easy\GreatestNumberOfCandies\GreatestNumberOfCandies\bin\Debug\net7.0\GreatestNumberOfCandies.dll
+C:\Users\JoyJacksoon\Desktop\LeetCodeSolutions\Array\Easy\GreatestNumberOfCandies\GreatestNumberOfCandies\bin\Debug\net7.0\GreatestNumberOfCandies.pdb
+C:\Users\JoyJacksoon\Desktop\LeetCodeSolutions\Array\Easy\GreatestNumberOfCandies\GreatestNumberOfCandies\obj\Debug\net7.0\GreatestNumberOfCandies.csproj.AssemblyReference.cache
+C:\Users\JoyJacksoon\Desktop\LeetCodeSolutions\Array\Easy\GreatestNumberOfCandies\GreatestNumberOfCandies\obj\Debug\net7.0\GreatestNumberOfCandies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoyJacksoon\Desktop\LeetCodeSolutions\Array\Easy\GreatestNumberOfCandies\GreatestNumberOfCandies\obj\Debug\net7.0\GreatestNumberOfCandies.AssemblyInfoInputs.cache
+C:\Users\JoyJacksoon\Desktop\LeetCodeSolutions\Array\Easy\GreatestNumberOfCandies\GreatestNumberOfCandies\obj\Debug\net7.0\GreatestNumberOfCandies.AssemblyInfo.cs
+C:\Users\JoyJacksoon\Desktop\LeetCodeSolutions\Array\Easy\GreatestNumberOfCandies\GreatestNumberOfCandies\obj\Debug\net7.0\GreatestNumberOfCandies.csproj.CoreCompileInputs.cache
+C:\Users\JoyJacksoon\Desktop\LeetCodeSolutions\Array\Easy\GreatestNumberOfCandies\GreatestNumberOfCandies\obj\Debug\net7.0\GreatestNumberOfCandies.dll
+C:\Users\JoyJacksoon\Desktop\LeetCodeSolutions\Array\Easy\GreatestNumberOfCandies\GreatestNumberOfCandies\obj\Debug\net7.0\refint\GreatestNumberOfCandies.dll
+C:\Users\JoyJacksoon\Desktop\LeetCodeSolutions\Array\Easy\GreatestNumberOfCandies\GreatestNumberOfCandies\obj\Debug\net7.0\GreatestNumberOfCandies.pdb
+C:\Users\JoyJacksoon\Desktop\LeetCodeSolutions\Array\Easy\GreatestNumberOfCandies\GreatestNumberOfCandies\obj\Debug\net7.0\GreatestNumberOfCandies.genruntimeconfig.cache
+C:\Users\JoyJacksoon\Desktop\LeetCodeSolutions\Array\Easy\GreatestNumberOfCandies\GreatestNumberOfCandies\obj\Debug\net7.0\ref\GreatestNumberOfCandies.dll
