@@ -1,0 +1,15 @@
+C:\Users\JoyJacksoon\Desktop\LeetCodeSolutions\Array\Easy\SumIndicesWithKSetBits\SumIndicesWithKSetBits\bin\Debug\net7.0\SumIndicesWithKSetBits.exe
+C:\Users\JoyJacksoon\Desktop\LeetCodeSolutions\Array\Easy\SumIndicesWithKSetBits\SumIndicesWithKSetBits\bin\Debug\net7.0\SumIndicesWithKSetBits.deps.json
+C:\Users\JoyJacksoon\Desktop\LeetCodeSolutions\Array\Easy\SumIndicesWithKSetBits\SumIndicesWithKSetBits\bin\Debug\net7.0\SumIndicesWithKSetBits.runtimeconfig.json
+C:\Users\JoyJacksoon\Desktop\LeetCodeSolutions\Array\Easy\SumIndicesWithKSetBits\SumIndicesWithKSetBits\bin\Debug\net7.0\SumIndicesWithKSetBits.dll
+C:\Users\JoyJacksoon\Desktop\LeetCodeSolutions\Array\Easy\SumIndicesWithKSetBits\SumIndicesWithKSetBits\bin\Debug\net7.0\SumIndicesWithKSetBits.pdb
+C:\Users\JoyJacksoon\Desktop\LeetCodeSolutions\Array\Easy\SumIndicesWithKSetBits\SumIndicesWithKSetBits\obj\Debug\net7.0\SumIndicesWithKSetBits.csproj.AssemblyReference.cache
+C:\Users\JoyJacksoon\Desktop\LeetCodeSolutions\Array\Easy\SumIndicesWithKSetBits\SumIndicesWithKSetBits\obj\Debug\net7.0\SumIndicesWithKSetBits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoyJacksoon\Desktop\LeetCodeSolutions\Array\Easy\SumIndicesWithKSetBits\SumIndicesWithKSetBits\obj\Debug\net7.0\SumIndicesWithKSetBits.AssemblyInfoInputs.cache
+C:\Users\JoyJacksoon\Desktop\LeetCodeSolutions\Array\Easy\SumIndicesWithKSetBits\SumIndicesWithKSetBits\obj\Debug\net7.0\SumIndicesWithKSetBits.AssemblyInfo.cs
+C:\Users\JoyJacksoon\Desktop\LeetCodeSolutions\Array\Easy\SumIndicesWithKSetBits\SumIndicesWithKSetBits\obj\Debug\net7.0\SumIndicesWithKSetBits.csproj.CoreCompileInputs.cache
+C:\Users\JoyJacksoon\Desktop\LeetCodeSolutions\Array\Easy\SumIndicesWithKSetBits\SumIndicesWithKSetBits\obj\Debug\net7.0\SumIndicesWithKSetBits.dll
+C:\Users\JoyJacksoon\Desktop\LeetCodeSolutions\Array\Easy\SumIndicesWithKSetBits\SumIndicesWithKSetBits\obj\Debug\net7.0\refint\SumIndicesWithKSetBits.dll
+C:\Users\JoyJacksoon\Desktop\LeetCodeSolutions\Array\Easy\SumIndicesWithKSetBits\SumIndicesWithKSetBits\obj\Debug\net7.0\SumIndicesWithKSetBits.pdb
+C:\Users\JoyJacksoon\Desktop\LeetCodeSolutions\Array\Easy\SumIndicesWithKSetBits\SumIndicesWithKSetBits\obj\Debug\net7.0\SumIndicesWithKSetBits.genruntimeconfig.cache
+C:\Users\JoyJacksoon\Desktop\LeetCodeSolutions\Array\Easy\SumIndicesWithKSetBits\SumIndicesWithKSetBits\obj\Debug\net7.0\ref\SumIndicesWithKSetBits.dll
